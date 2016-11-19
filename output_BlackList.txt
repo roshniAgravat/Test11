@@ -1,0 +1,9 @@
+*****If User input the dictionary Word
+
+C:\Users\nrs>java BlackListWord
+ It word is used in blackList
+
+*****If User input the another Word
+
+C:\Users\nrs>java BlackListWord
+hello World
