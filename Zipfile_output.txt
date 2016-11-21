@@ -1,0 +1,12 @@
+C:\Users\nrs\Downloads>javac ZipFile.java
+
+C:\Users\nrs\Downloads>java ZipFile
+Add
+rose
+java.io.FileNotFoundException: D:\vish\rose (Access is denied)
+
+C:\Users\nrs\Downloads>javac ZipFile.java
+
+C:\Users\nrs\Downloads>java ZipFile
+D:/roshni This Directiory is not here
+java.util.zip.ZipException: ZIP file must have at least one entry
