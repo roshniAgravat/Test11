@@ -19,7 +19,7 @@ class BorderLayout1
 		panel1.setLayout(new GridLayout());
 		panel1.add(jc1);
 		
-		JButton btn1 = new JButton("Button 1");
+		JButton btn1 = new JButton("ORANGE");
 		panel1.add(btn1);
 		JButton btn2 = new JButton("RED");
 		panel1.add(btn2);
@@ -59,7 +59,7 @@ class BorderLayout1
 		content.add(jc1,BorderLayout.NORTH);
 			
 		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		jf.setSize(50,50);
+		jf.setSize(800,400);
 		jf.setVisible(true);	
 	
 	}
