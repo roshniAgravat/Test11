@@ -16,7 +16,7 @@ class BorderLayout1
 	{
 		JPanel panel1 = new JPanel();
 		JCheckBox jc1=new JCheckBox("WEST");
-		panel1.setLayout(new GridLayout());
+		panel1.setLayout(new GridLayout(10,10));
 		panel1.add(jc1);
 		
 		JButton btn1 = new JButton("ORANGE");
