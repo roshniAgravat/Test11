@@ -1,0 +1,11 @@
+Z:\SS\26.11.2016\rr>javac Dupwords.java
+
+Z:\SS\26.11.2016\rr>java Dupwords
+Example Remove Duplicate String
+Hi Hi Hello friends friends
+Removing Words from above string
+
+Hi
+Hello
+
+friends
